@@ -1,0 +1,227 @@
+#image1 {
+  background-image: url("https://cdn.glitch.com/a78afa7c-c3af-4e7b-8723-7277ea1bbd40%2Fphoto-1504350440606-81847d413a13.webp?v=1582227527663");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 50vh;
+}
+
+#image2 {
+  background-image: url("https://cdn.glitch.com/a78afa7c-c3af-4e7b-8723-7277ea1bbd40%2Fphoto-1569431876779-f924b49ac555.webp?v=1582227885640");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 50vh;
+}
+
+#image3 {
+  background-image: url("https://cdn.glitch.com/a78afa7c-c3af-4e7b-8723-7277ea1bbd40%2Fphoto-1508768787810-6adc1f613514.webp?v=1582227879836");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 50vh;
+}
+
+#header {
+  background-image: url("https://cdn.glitch.com/a78afa7c-c3af-4e7b-8723-7277ea1bbd40%2Fimages.jpg?v=1582229767702");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+#mt {
+  color: white;
+  font-family: "Vidaloka", serif;
+  font-size: 90px;
+  text-align: center;
+}
+
+#mst {
+  color: white;
+  font-family: "Vidaloka", serif;
+  font-size: 25px;
+  text-align: center;
+  margin-top: -20px;
+}
+
+#header a {
+  font-family: "Oswald", sans-serif;
+  color: #a59b99;
+  font-size: 20px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  transition: color 0.5s linear;
+}
+
+#header a:hover {
+  color: white;
+}
+
+.head {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+}
+
+.corpus {
+  font-family: "Lora", serif;
+  font-size: 18px;
+  text-align: justify;
+}
+
+#Fable1 {
+  background-color: #e1dfdf;
+  padding-top: 10px;
+}
+
+.rdr {
+  display: inline-block;
+  float: none;
+  margin-left: 0;
+  vertical-align: middle;
+}
+
+.rdl {
+  display: inline-block;
+  float: none;
+  vertical-align: middle;
+}
+
+#img_f1 {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 3em;
+  -webkit-transform: rotate(10deg) scale(1.2);
+  transform: rotate(10deg) scale(1.2);
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  -webkit-transition: 0.5s ease;
+  transition: 0.5s ease;
+}
+
+#img_f1:hover {
+  -webkit-transform: rotate(0) scale(1);
+  transform: rotate(0) scale(1);
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+}
+
+.moral {
+  font-family: "Lora", serif;
+  font-size: 25px;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
+
+#Fable2 {
+  background-color: #e1dfdf;
+  padding-top: 10px;
+}
+
+.ldr {
+  display: inline-block;
+  float: none;
+  margin-left: 0;
+  vertical-align: middle;
+}
+
+.ldl {
+  display: inline-block;
+  float: none;
+  vertical-align: middle;
+}
+
+#img_f2 {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 3em;
+  -webkit-transform: rotate(-10deg) scale(1.1);
+  transform: rotate(-10deg) scale(1.1);
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  -webkit-transition: 0.5s ease;
+  transition: 0.5s ease;
+}
+
+#img_f2:hover {
+  -webkit-transform: rotate(0) scale(1);
+  transform: rotate(0) scale(1);
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+}
+
+#Fable3 {
+  background-color: #e1dfdf;
+  padding-top: 10px;
+}
+
+#img_f3 {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 3em;
+  -webkit-transform: rotate(10deg) scale(1.1);
+  transform: rotate(10deg) scale(1.1);
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  -webkit-transition: 0.5s ease;
+  transition: 0.5s ease;
+}
+
+#img_f3:hover {
+  -webkit-transform: rotate(0) scale(1);
+  transform: rotate(0) scale(1);
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+}
+
+#footer {
+  background-image: url("https://cdn.glitch.com/a78afa7c-c3af-4e7b-8723-7277ea1bbd40%2Fimages.jpg?v=1582229767702");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 22px;
+}
+
+#footer p {
+  font-family: "Oswald", sans-serif;
+  color: white;
+  font-size: 15px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: #a59b99;
+  transition: color 0.5s linear;
+}
+
+#footer a:hover {
+  color: white;
+}
+
+#eml_logo {
+  width: 10vw;
+}
+
+#footer_c {
+  text-align: center;
+}
+
+#footer_r {
+  text-align: right;
+}
+
+figcaption {
+  font-family: "Oswald", sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+figure {
+    text-align: center;
+}
